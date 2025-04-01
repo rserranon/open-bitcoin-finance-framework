@@ -1,0 +1,19 @@
+:root {
+  --primary: #0591c1;
+  --primary-light: #0691c1;
+  --primary-dark: #000000;
+  --accent: #f28c28;
+  --gray: #999999;
+}
+
+body {
+  color: var(--gray);
+  background-color: #ffffff;
+}
+
+a {
+  color: var(--primary);
+}
+a:hover {
+  color: var(--accent);
+}

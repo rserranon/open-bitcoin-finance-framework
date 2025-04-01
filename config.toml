@@ -1,0 +1,85 @@
+
+baseURL = "https://novu.capital/"
+languageCode = "en-us"
+title = "Strategic Bitcoin Finance"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params.homeInfoParams]
+title = "Strategic Bitcoin Finance"
+content = "A living framework for capital thinkers in the Bitcoin era."
+
+[params]
+env = "production"
+description = "A living framework for capital thinkers in the Bitcoin era."
+author = "Novu Capital"
+defaultTheme = "auto"
+ShowCodeCopyButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowShareButtons = true
+assets.css = ["css/custom.css"]
+ShowSectionPosts = true
+ShowToc = true
+ShowBreadCrumbs = true
+ShowNavbar = true
+ShowNavMenus = true
+
+[markup.highlight]
+style = "monokai"
+
+[pagination]
+pagerSize = 10
+
+
+[[menu.main]]
+identifier = "framework"
+name = "Framework"
+url = "/framework/"
+weight = 1
+
+[[menu.main]]
+identifier = "corporate"
+name = "Corporate Finance"
+url = "/corporate-finance/"
+weight = 2
+
+[[menu.main]]
+identifier = "macro"
+name = "Macroeconomics"
+url = "/macroeconomics/"
+weight = 3
+
+[[menu.main]]
+identifier = "markets"
+name = "Capital Markets"
+url = "/capital-markets/"
+weight = 4
+
+[[menu.main]]
+identifier = "contribute"
+name = "Contribute"
+url = "/contribute/"
+weight = 5
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 6
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 7
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 8
+
+[taxonomies]
+tag = "tags"
+category = "categories"
