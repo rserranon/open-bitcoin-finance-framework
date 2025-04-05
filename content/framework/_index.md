@@ -1,3 +1,4 @@
 # The Framework
 
-Explore the Strategic Bitcoin Finance framework through three lenses.
+Explore The Open Bitcoin Finance Framework through three lenses.
+

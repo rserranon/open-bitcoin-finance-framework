@@ -1,11 +1,11 @@
 ---
 title: "The Framework"
-description: "Explore the Strategic Bitcoin Finance framework through three lenses: Corporate Finance, Macroeconomics, and Capital Markets."
+description: "Explore the Open Bitcoin Finance Framework through three lenses: Corporate Finance, Macroeconomics, and Capital Markets."
 ---
 
-Welcome to the **Strategic Bitcoin Finance** framework — a living structure for understanding the intersection of Bitcoin, capital markets, and macroeconomic thinking.
+Welcome to the **Open Bitcoin Finance Framework** — a living structure for understanding the intersection of Bitcoin, capital markets, and macroeconomic thinking.
 
-![Strategic Bitcoin Finance Framework](images/framework-diagram.png)
+![Open Bitcoin Finance Framework](images/framework-diagram.png)
 
 ---
 
@@ -60,4 +60,3 @@ Where capital allocation, policy evolution, and monetary innovation converge.
 - Redefining the role of CFOs in a post-sovereign world  
 - Bitcoin as a reserve, benchmark, and macro hedge  
 - Financial strategy for a dual-monetary future
-
