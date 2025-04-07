@@ -1,9 +1,11 @@
----
-title: "The Framework"
-description: "Explore the Open Bitcoin Finance Framework through three lenses: Corporate Finance, Macroeconomics, and Capital Markets."
+<!-- markdownlint-disable MD013 -->
 ---
 
-Welcome to the **Open Bitcoin Finance Framework** — a living structure for understanding the intersection of Bitcoin, capital markets, and macroeconomic thinking.
+title: "The Framework"
+description: Explore the Open Bitcoin Finance Framework through three core lenses: Corporate Finance, Macroeconomics, and Capital Markets
+---
+
+Welcome to the **Open Bitcoin Finance Framework** — a living structure for navigating the intersection of Bitcoin, macroeconomics, and capital markets through a strategic lens.
 
 ![Open Bitcoin Finance Framework](images/framework-diagram.png)
 
@@ -17,8 +19,9 @@ Welcome to the **Open Bitcoin Finance Framework** — a living structure for und
 
 - Treasury Strategy & Bitcoin as Reserve Asset
 - Capital Structure Design & Arbitrage
-- Bitcoin-Based Hurdle Rate
+- Bitcoin-Adjusted Hurdle Rates
 - Instruments for Risk/Return Segmentation
+- Structuring Instruments for Risk/Return Segmentation
 - Valuation Models & BTC-Linked Earnings
 
 ---
@@ -30,14 +33,14 @@ Welcome to the **Open Bitcoin Finance Framework** — a living structure for und
 ### Strategic Pillars
 
 - Real Inflation & Monetary Debasement
-- Sound Money Principles
+- Principles of Sound Money
 - Long-Term Capital Allocation (Austrian Influence)
 - Sovereignty, Capital Controls & Escape Valves
-- Policy Transmission Breakdown
+- Breakdown of Traditional Policy Transmission Mechanisms
 
 ---
 
-## 📈 III. Capital Markets & Bitcoin Monetary Innovation
+## 📈 III. Capital Markets
 
 **Focus**: How Bitcoin reshapes investor behavior, volatility norms, risk metrics, and market structure.
 
@@ -45,9 +48,10 @@ Welcome to the **Open Bitcoin Finance Framework** — a living structure for und
 
 - From Short-Termism to Long-Term Value
 - Redefining Risk, Return & Volatility
+- New Risk, Return, and Volatility Paradigms
 - New Market Metrics
 - Bitcoin-Native Capital Formation
-- Behavioral Finance in a BTC World
+- Behavioral Shifts in a Bitcoin-Based Market
 
 ---
 
@@ -57,6 +61,6 @@ Where capital allocation, policy evolution, and monetary innovation converge.
 
 **Themes**:
 
-- Redefining the role of CFOs in a post-sovereign world  
-- Bitcoin as a reserve, benchmark, and macro hedge  
+- The evolving role of CFOs in a post-sovereign world  
+- Bitcoin as a reserve asset, benchmark, and macro hedge  
 - Financial strategy for a dual-monetary future
